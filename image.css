@@ -1,0 +1,36 @@
+.mark{
+    width:200px;
+    border-radius: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.kun{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+}
+.sky{
+    width: 200px;
+    border-radius: 100px;
+    margin-right: 10px;
+}
+.search{
+    font-size:20px;
+    border-radius: 5px;
+    border: none;
+    padding: 8px 10px;
+    font-family: mali;
+    margin-bottom: 10px;
+}
+.search2{
+    padding: 12px 15px;
+    font-family: mali;
+    width: 500px;
+    border-radius: 30px;
+    border: none;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.25);
+}
+body{
+    background-color: rgb(255, 218, 224);
+}
