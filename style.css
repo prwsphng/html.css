@@ -1,0 +1,47 @@
+.youtube{
+    background-color: #cc0000;
+    color: white;
+    font-family: 'mali','Times New Roman', Times, serif;
+    border: none;
+    padding: 10px 16px;
+    transition: all 0.15s;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.youtube:hover{
+    opacity: 0.8;
+}
+
+.join{
+    background-color: white;
+    color:#065fd4;
+    border-color: #065fd4;
+    border-style: solid;
+    padding: 9px 15px;
+    font-family: 'mali','Times New Roman', Times, serif;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: all 0.15s;
+    margin-right: 10px;
+
+}
+.join:hover{
+    background-color: #065fd4;
+    color:white;
+}
+
+.tweet{
+    background-color: #1d9bf0;
+    color: white;
+    font-family: 'mali','Times New Roman', Times, serif;
+    border-radius: 20px;
+    padding: 7px 16px;
+    border: none;
+    transition: all 0.15s;
+    cursor: pointer;
+    font-weight: bold;
+}
+.tweet:hover{
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
