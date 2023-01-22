@@ -1,0 +1,29 @@
+body{
+    background-color: #EFE6D9;
+    color: #53504A;
+    font-family: Anybody;
+    line-height: 30px;
+
+}
+h1{
+    font-weight: bold;
+}
+h3{
+    color:#263D3D;
+}
+h5{
+    color:#bd856c;
+}
+
+table,th,tr,td{
+    border-style: solid;
+    border-width: 3px;
+    border-color: #43474D;
+    width: 600px;
+    height: auto;
+    table-layout: auto;
+}
+a{
+    color:#4E7286;
+    cursor: pointer;
+}
