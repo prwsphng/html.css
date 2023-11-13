@@ -1,0 +1,52 @@
+*{
+    font-family: poppins;
+}
+body{
+    color: #2E2E2E;
+}
+.x{
+    width: 50%; 
+    margin: auto; 
+    padding: auto; 
+    display: flex; 
+    justify-content: space-between;
+    color: #2E2E2E;
+}
+#y{
+    font-size: 20px;
+    border: 2px;
+    border-radius: 30px;
+    transition: all 0.15s;
+    background-color: white;
+    border-color: #1C3F60;
+    border-style: solid;
+    color: #2E2E2E;
+}
+#y:hover{
+    color: #2E2E2E;
+    box-shadow: #534f4a;
+    background-color: #B8CCDF;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+#y::placeholder{
+    font-weight: 400;
+    font-size: 18px;
+    color: white;
+}
+#button-addon2{
+    font-size: 18px;
+    border: 2px;
+    border-radius: 30px;
+    cursor: pointer;
+    transition: all 0.15s;
+    background-color: white;
+    border-color: #1C3F60;
+    border-style: solid;
+    color: #2E2E2E;
+}
+#button-addon2:hover{
+    box-shadow: #534f4a;
+    background-color: #B8CCDF;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+    color: white;
+}
